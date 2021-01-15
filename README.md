@@ -14,6 +14,7 @@ This project is a Full Stack reimplementation of the official [Google Keep](http
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Styled Components](https://styled-components.com/)
+- [Redux](https://redux.js.org/)
 
 ## Installation
 
