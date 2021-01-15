@@ -1,0 +1,10 @@
+/client/build
+/client/node_modules
+/client/.env.local
+/client/.eslintcache
+
+/server/_data
+/server/config/config.env
+/server/seeder
+/server/Procfile
+/server/node_modules
