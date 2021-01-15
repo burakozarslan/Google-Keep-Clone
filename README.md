@@ -6,7 +6,7 @@
 
 # About The Project
 
-This project is a Full Stack reimplementation of the official [Google Keep](https://keep.google.com/) app where users register/login with email and create notes. Notes may contain imageoptionally as well as labels and labels can be added/deleted individually.
+This project is a Full Stack reimplementation of the official [Google Keep](https://keep.google.com/) app where users register/login with email and create notes. Notes may contain images optionally as well as labels and labels can be added/deleted individually.
 
 ### Built With
 
